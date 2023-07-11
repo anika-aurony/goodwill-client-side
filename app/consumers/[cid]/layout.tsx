@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Elysian Feeds | Consumer Details",
+  title: "Goodwill | Consumer Details",
 };
 
 export default function ConsumerLayout({

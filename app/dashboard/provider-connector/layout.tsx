@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Elysian Feeds | Provider Connector Dashboard",
+  title: "Goodwill | Provider Connector Dashboard",
 };
 
 export default function ProviderConnectorLayout({
