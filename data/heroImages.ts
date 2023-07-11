@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    src: "https://images.pexels.com/photos/4544877/pexels-photo-4544877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    src: "https://images.pexels.com/photos/417328/pexels-photo-417328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     alt: "Dog giving paw to anonymous person",
     heading: "Support Animal Welfare",
     paragraph:
@@ -28,7 +28,7 @@ export const data = [
   },
   {
     id: 4,
-    src: "https://images.pexels.com/photos/5880643/pexels-photo-5880643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    src: "https://images.pexels.com/photos/1661535/pexels-photo-1661535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     alt: "Rhinoceros standing in lush forested sanctuary",
     heading: "Conserve Wildlife Habitats",
     paragraph:
@@ -37,7 +37,7 @@ export const data = [
   },
   {
     id: 5,
-    src: "https://images.pexels.com/photos/7551580/pexels-photo-7551580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    src: "https://images.pexels.com/photos/45842/clasped-hands-comfort-hands-people-45842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     alt: "A Man Holding a Plastic Crate with Fruits and Vegetables",
     heading: "Support the Elderly",
     paragraph:
